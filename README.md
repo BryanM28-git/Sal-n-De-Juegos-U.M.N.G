@@ -12,7 +12,7 @@ Todo el sistema puede ser controlado de forma manual mediante un teclado matrici
 
 ### Vista de la Maqueta Funcional
 
-![Vista superior de la maqueta de cartón funcional, con pantalla OLED y teclado matricial visible](image_0.png)
+![Vista superior de la maqueta de cartón funcional](maqueta.jpeg)
 *Maqueta funcional del Salón de Juegos Inteligente, construida en cartón, mostrando la consola central con pantalla OLED y teclado.*
 
 ---
