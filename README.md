@@ -72,7 +72,7 @@ Sigue estos pasos para reproducir el funcionamiento:
 5.  Iniciar `chat_voz.py` en el terminal del PC.
 6.  ¡Comienza a interactuar! Di "enciende las luces", "activa la refrigeración" o "inicia un juego de carreras".
 
-## 👤 Autor
+## 👤 Autores
 
-**Bryan Martínez**
-Estudiante de Ingeniería Mecatrónica, Universidad Militar Nueva Granada.
+**Bryan Martínez y Kevin Castiblanco**
+Estudiantes de Ingeniería Mecatrónica, Universidad Militar Nueva Granada.
